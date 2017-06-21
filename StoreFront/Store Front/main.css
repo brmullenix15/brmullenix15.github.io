@@ -1,0 +1,71 @@
+h1{
+	text-align: center;
+	font-color: navy;
+	margin: 0px 0px 0px 0px;
+}
+body{
+	background-color: white/*#e1dcb7*/;
+}
+h2{
+	font-size: 35px;
+}
+table{
+	border-color: navy;
+	border-style: 9px;
+	border-right-width: 2px;
+	border-left-width: 2px;
+}
+td{
+	border-radius: 5px;
+}
+h4{
+	font-size: 18px;
+	font-style: italic;
+}
+html{
+	background-color: #e1dcb7;
+}
+.navbar{
+	border-bottom: solid 2px navy;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+.main{
+	border-top: solid 2px navy;
+	border-bottom: solid 2px navy;
+	margin-top: 5px;
+	padding-left: 5px;
+	border-radius: 5px;
+	
+}
+.part1{
+	position: relative;
+	margin-right: 850px;
+	padding-left: 5px;
+}
+.part2{
+	position: relative;
+	left: 675px;
+	top: -550px;
+	margin-right: 675px;
+	padding-left: 5px;
+}
+.Product-Line{
+	margin-top: -350px;
+	vertical-align: center;
+}
+.all{
+	border: solid 5px navy;
+	border-radius: 7px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.jumbotron{
+	width: 840px;
+	height: 430px;
+	margin-top: 30px;
+}
+.Photo-Gallery {
+	padding-left: 20px;
+}
