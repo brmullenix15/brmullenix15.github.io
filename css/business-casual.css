@@ -194,3 +194,13 @@ footer p {
     width = 90%;
 
 }
+textarea {
+    border: double 3px gray;
+}
+input {
+    border: double 3px gray;
+    width: 565px;
+}
+input .submit{
+    width:250px;
+}
