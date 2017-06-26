@@ -196,11 +196,12 @@ footer p {
 }
 textarea {
     border: double 3px gray;
+    width: 25em;
 }
 input {
     border: double 3px gray;
-    width: 565px;
+    width: 25em;
 }
 input .submit{
-    width:250px;
+    width:25em;
 }
